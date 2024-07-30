@@ -1,0 +1,46 @@
+{
+  "peliculas": [
+    {
+      "titulo": "Titanic",
+      "año": 1996,
+      "duracion": 2.1,
+      "id": "3976"
+    },
+    {
+      "titulo": "Fast&Furious",
+      "año": 2001,
+      "duracion": 1.45,
+      "id": "a396"
+    },
+    {
+      "titulo": "El rey león",
+      "año": 1995,
+      "duracion": 1.1,
+      "id": "752f"
+    }
+  ],
+  "actores": [
+    {
+      "nombre": "Dicaprio",
+      "edad": 20,
+      "id": "dfe7"
+    },
+    {
+      "nombre": "Vin Diesel",
+      "edad": 30,
+      "id": "4e63"
+    }
+  ],
+  "premios": [
+    {
+      "premio": "mmás taquillera",
+      "año": 1996,
+      "id": "7d10"
+    },
+    {
+      "premio": "mejor reparto",
+      "año": 2002,
+      "id": "85fd"
+    }
+  ]
+}
